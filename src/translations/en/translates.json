@@ -1,0 +1,1065 @@
+{
+  "language": "en",
+  "label": {
+    "goToHome": "Go to home",
+    "today": "Today",
+    "all": "All",
+    "optional_field": "Optional",
+    "no_options": "No options"
+  },
+  "navbar": {
+    "editProfile": "Edit profile",
+    "menuIcon1": {
+      "categoryList": "Category List",
+      "staff": "Staff",
+      "manager": "Manager"
+    },
+    "menuIcon2": {
+      "calendar": "Calendar",
+      "restdayList": "Rest day",
+      "staffManagement": "Staff Management"
+    },
+    "menuIcon3": {
+      "customerRequest": "Customer Request"
+    }
+  },
+  "banner": {
+    "hello": "Hello",
+    "youHave": "you have",
+    "alarm": "{{field}} appointment to confirm"
+  },
+  "list": {
+    "resultPerPage": "Result per page",
+    "of": "of",
+    "goToPage": "Go to page",
+    "noResult": "No Result",
+    "noResultCustom": "There is no request",
+    "page": "Page",
+    "go": "Go"
+  },
+  "notice": {
+    "error": "Error !",
+    "success": "Success !"
+  },
+  "rolesUser": {
+    "repairer": "Repairer",
+    "admin": "Admin"
+  },
+  "request": {
+    "titlePage": "Request",
+    "btnAddRequest": "Add Request",
+    "titleRequest": "Customer Requests",
+    "closeNewForm": "close form request new",
+    "btnSubmitNew": "Suite et finaliser >>",
+    "textMessage": "Votre demande a bien été enregistrée",
+    "repairerMessage": "Nous reviendrons vers vous dans un délai de moins de 24h",
+    "closeNew": "Fermer",
+    "chatNotSeen":"Chat not seen",
+    "documentNotSeen":"Document not seen",
+    "infoDiagnosisReceived": {
+      "text1": "Action requise",
+      "text2": "Vous avez reçu des diagnostics",
+      "text3": "Pour accepter un devis, ajouter le au panier et régler en ligne. Le Paiement vaudra acceptation. Merci :)",
+      "actionDiagnosisReceived": "Consulter"
+    },
+    "infoMakeAnAppointment": {
+      "text": "vous devez enregistrer la date et l'heure",
+      "registerTime": "temps d'enregistrement"
+    },
+    "tab1RequestNew": "Demande de diagnostic",
+    "tab2RequestNew": "Informations pratiques",
+    "status": {
+      "REPAIRED": "Go visio",
+      "NOT_BE_REPAIRED": "Not go",
+      "WAITING_FOR_REPLY":"Waiting",
+      "GO_DOC": "GO",
+      "MAYBE": "Maybe",
+      "STOP": "Stop",
+      "UNASSIGNED": "Unassigned",
+      "ASSIGNED": "Assigned",
+      "valid": "valid",
+      "notEligible": "not eligible",
+      "inProgress": "in progress",
+      "canceled": "canceled",
+      "archived": "archived",
+      "unarchived":"pending",
+      "all": "All"
+    },
+    "list": {
+      "id": "Id",
+      "problem": "Problem",
+      "date": "Created date",
+      "status": "Status",
+      "note": "Note",
+      "paid": "Paid",
+      "categories": "Categories",
+      "btnResponse": "Response",
+      "btnDetail": "Detail",
+      "btnDetailClient": "Accès Dossier",
+      "btnAddNote": "Add Note",
+      "btnAddCategory": "Add Category",
+      "btnStop": "Stop",
+      "btnArchive": "Archive",
+      "btnUnarchive": "Unarchive",
+      "client": "Client",
+      "startTime": "Start time",
+      "staff": "Staff",
+      "assign": "Assign",
+      "action": "Action",
+      "chat": "DIALOGUER",
+      "files": "Files",
+      "viewNote": "View note",
+      "amount": "Amount",
+      "comment": "Comment",
+      "stopRequest": "Are you sure ?",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "prendre": "prendre RDV",
+      "the": "The",
+      "video": "Video of visio",
+      "pdf": "PDF of the report",
+      "otherDoc": "Other doc",
+      "detail": "Detail",
+      "waitingConfirmation": "Waiting of confirmation",
+      "createReport": "Create Report",
+      "viewDocument": "Fichiers",
+      "viewAllReport": "All report",
+      "reportPaid": "Réglé OK",
+      "rules": "Règlement",
+      "setStartTime": "Start time",
+      "saveRequest": "Archived request",
+      "unSaveRequest": "Unarchive request",
+      "archiveRequest": "Souhaitez-vous archiver cette demande ?",
+      "unarchiveRequest": "Souhaitez-vous désarchiver cette demande ?",
+      "complete_information": "Compléter votre information",
+      "reportReceived": "rapports reçus",
+      "add_camera": "AJOUT DOCUMENT",
+      "messageUploadDocument": "Upload {{count}} document for request id : {{id}}",
+      "statusRequest": {
+        "CLIENT_STATUS_SET_OK": "Réglé OK",
+        "CLIENT_STATUS_NOT_ELIGIBLE": "Non eligible",
+        "CLIENT_STATUS_IN_PROGRESS": "En cours",
+        "CLIENT_STATUS_MAKE_AN_APPOINTMENT": "Prendre RDV",
+        "CLIENT_STATUS_CANCELED": "Annulé",
+        "CLIENT_STATUS_DIAGNOSIS_RECEIVED": "DiagnosticReçu",
+        "CLIENT_STATUS_UNDER_ANALYSIS_BY_THE_EXPERT": "En cours d’analyse par l’expert",
+        "CLIENT_STATUS_SCHEDULED_APPOINTMENT": "RDV planifié"
+      },
+      "statusChat": {
+        "seen": "Seen",
+        "notSeen": "Not seen"
+      },
+      "statusDocumentView": {
+        "seen": "Seen",
+        "notSeen": "Not seen"
+      }
+    },
+    "popoverChangeStatus": {
+      "price": "Price",
+      "comment": "Comment",
+      "goFree": "Go free",
+      "toRespondTo": "répondre à",
+      "errors": {
+        "changePasswordSelection": "You have not selected a new status!",
+        "priceEmpty": "Field 'Price' should invalid or null!"
+      }
+    },
+    "popoverAddNote": {
+      "title": "Add Note",
+      "btnAddNote": "Note",
+      "note": "Note",
+      "errors": {
+        "noteEmpty": "Field 'content' should not null!"
+      }
+    },
+    "modalUseSmartphone": {
+      "youPassBySmartphone": "Blicko vous vous recommande de passer par un smartphone pour ne pas perdre de temps à transferer vos photos du smartphone vers le PC :)",
+      "doNotDisplayAnymore": "Do not display anymore",
+      "iGetIt": "J'ai compris"
+    },
+    "requestDetail": {
+      "dateVisioDiagnostic": "Date visio-diagnostic",
+      "hour": "Heure",
+      "videoMp4": "vidéo mp4",
+      "encounteredProblem": "Encountered problem",
+      "documentType": {
+        "IMAGE_VIDEO": "image/video",
+        "BILL": "Bill",
+        "QUOTATION": "Quotation",
+        "REPORT_QUOTATION": "Rapport devis",
+        "OTHER": "Other",
+        "chatDocuments": "Chat documents"
+      },
+      "tabs": {
+        "tabReport": "DETAIL DU RAPPORT",
+        "tabDocument": "MES DOCUMENTS",
+        "tabCalender": "MON RDV VISIO"
+      },
+      "download": "Download",
+      "view": "View",
+      "slideshow": "Slideshow"
+    }
+  },
+  "information": {
+    "header": {
+      "returnHistory": "Return",
+      "appelVisio": "Appel visio"
+    },
+    "tab1": "Informations",
+    "tab2": "Rendez-vous",
+    "tab3": "Paid",
+    "formTab1": {
+      "subject": "Subject",
+      "problem": "Problem",
+      "documents":  "Documents",
+      "labelAddressRepair": "2. Adresse d'intervention",
+      "labelAddressBilling": "3. Adresse de facturation",
+      "billingAddressSameAsRepairAddress": "identique adresse d'intervention",
+      "logement": "4. Logement",
+      "userAccount": "User Account",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "addressCity": "City",
+      "addressPostalCode": "Postal Code",
+      "addressCountry": "Country",
+      "addressDescription": "Description",
+      "constructionYear": "Construction Year",
+      "appelVisio": "Call use the WhereBy application",
+      "sentByAgency": "Etes-vous envoyé par une régie ou un partenaire blicko?",
+      "sentByAgencyLabel": "Envoyé par",
+      "buildingHasBeenBuiltForOver2Years": "This building has been built for over 2 years?",
+      "buildingHasBeenBuiltFor": "This building has been built for",
+      "olderThan2Years": "+ de 2 ans",
+      "lessThan2Years": "- de 2 ans",
+      "yes": "Yes",
+      "no": "No",
+      "dontKnow": "Don't Know",
+      "situation": "Situation",
+      "owner": "Owner",
+      "tenant": "Tenant",
+      "otherInfo": "Other information",
+      "acceptCertificate": "Category",
+      "certificate": "Certificate",
+      "btnSave": "Save",
+      "addressMail": "Address mail",
+      "address": "Address",
+      "complement": "Complement",
+      "appelVisioTitle": "Video call",
+      "leaseType": "Contract type",
+      "startingDateOfStay": "starting date of stay",
+      "questionRealEstateCenterCode": "questionRealEstateCenterCode?",
+      "personal": "Particular",
+      "company": "Business",
+      "socialReason": "Social reason",
+      "vat": "VAT N °",
+      "floorNumber": "Étage",
+      "isThereAnElevator": "Ascenceur",
+      "doorPassword": "Digicode",
+      "ownerEmail": "Email propriétaire",
+      "authorizeShareEmail": "j'autorise le partage d'informations",
+      "advertise": "Advertise",
+      "errors": {
+        "firstNameEmpty": "This field 'First Name' should not be null!",
+        "lastNameEmpty": "This field 'Last Name' should not be null!",
+        "emailInvalid": "This field 'Email' should not valid!",
+        "phoneNumberInvalid": "This field 'Phone Number' should not valid!",
+        "addressCityEmpty": "This field 'Address City' should not be null!",
+        "addressPostalCodeEmpty": "This field 'Address Postal Code' should not be null!",
+        "addressCountryEmpty": "This field 'Address Country' should not be null!",
+        "addressDescriptionEmpty": "This field 'Address Description' should not be null!",
+        "constructionYearInvalid": "This field 'Construction Year' should invalid!",
+        "sentByAgencyEmpty": "This field 'question' should not be null!",
+        "checkOwnerEmpty": "This field 'check Owner' should not be null!",
+        "acceptCertificateEmpty": "This field 'Check accept Certification' should not be null!",
+        "passwordEmpty": "This field 'Password' should not be null!",
+        "confirmPasswordMatch": "This field 'Confirm Password' is not match!",
+        "requestNotExist": "Request not exist!",
+        "leaseTypeEmpty": "This field 'Contract type' should not be null!",
+        "realEstateCenterCodeEmpty": "This field 'questionRealEstateCenterCode' should not be null!"
+      }
+    },
+    "formTab2": {
+      "diagnosis":"Your visio-diagnosis",
+      "chooseDate": "Please choose the date and time that suit you best",
+      "selectDate": "Select date and time",
+      "offTime": "There is no suitable time, please choose another date",
+      "next": "Next",
+      "errorNoDate": "Please select date and time",
+      "timeExpired" : "The selected time {{date}} is not valid. Please select a different date and time",
+      "messageSuccess" : "Successful registration date and time",
+      "save": "Save"
+    },
+    "formTab3": {
+      "amount": "Amount",
+      "contact": "Contact",
+      "methodPayment": "Method of payment",
+      "orOtherServices": "Ou autres services",
+      "owner": "Owner",
+      "expirationDate": "Expiration date (MM/YY)",
+      "dateType": "MM/YY",
+      "cardNumber": "Card number",
+      "verificationCode": "Verification code",
+      "CVCode": "Code de vérification",
+      "confirmPayment": "I confirm my payment",
+      "error": {
+        "fieldNull": "Please enter {{field}} on your card!",
+        "owner": "your name",
+        "expirationDate": "expiration date",
+        "cardNumber": "card number",
+        "verificationCode": "verification code",
+        "ownerError": "Please enter characters only",
+        "invalidDate": "Invalid date format",
+        "futureDate" : "Please enter a future date",
+        "invalidCard": "Invalid card number"
+      }
+    }
+  },
+  "modal": {
+    "title": "This is modal title",
+    "content": "This is modal content",
+    "save": "Save",
+    "cancel": "Cancel",
+    "upload": {
+      "describeProblem": "Briefly describe your problem",
+      "detailProblem": "Detail your problem ...",
+      "attackTitle": "Please attach a 10 second video (recommended) or photos",
+      "attackLabel": "Drop your photos, videos here or",
+      "chooseThem": "choose them",
+      "submitRequest": "Submit your request",
+      "errorType": "This file is not supported",
+      "errorVideo" : "Please attach a maximum 10-second video",
+      "errorSize" : "Please attach a maximum {{size}} MB file",
+      "errorInfo" : "Please enter all the information in the fields or wait for the file upload to complete!",
+      "addFile" : "Add files",
+      "requestAdded": "Request added successfully",
+      "attackLabelMobile": "You can take photos and record videos or"
+    },
+    "thankYou": "Thank you for your trust",
+    "feedBack": "We review your request and get back to you very quickly",
+    "submitted": "Your request has been submitted",
+    "editRequest": "Editer request"
+  },
+  "login": {
+    "fields": {
+      "lastName": "Last name",
+      "firstName": "First name",
+      "mail": "Mail address",
+      "email": "E-mail",
+      "phone": "Phone numer",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "newPassword": "New password",
+      "addressPostalCode": "Postal Code",
+      "login": "To log in",
+      "address": "Address"
+    },
+    "text": {
+      "or": "OR",
+      "haveAnAccount": "Have an account?",
+      "orLogin": "or log in with",
+      "dontHaveAnAccount": "Don’t have an account?",
+      "forgotPassword": "Forgot password?",
+      "remember": "Keep signed",
+      "forgot_title": "Forgot password",
+      "resetText": "We will send a password recovery request to your email.",
+      "successText_1": "We sent a password reset request to",
+      "successText_2": ", please follow the instructions in the email to get your password back.",
+      "createNewClient_1": "A verification link has been sent to",
+      "createNewClient_2": ". Please click on that link to verify your email and complete the registration process.",
+      "createNewPassword": "Create new password",
+      "changePasswordSuccess": "You have just changed password successfully.",
+      "loginWithFacebook": "Login with facebook",
+      "loginWithGoogle": "Login with google",
+      "creatAccount": "Create an account",
+      "registration": "Registration",
+      "confirmRegistration": "Confirm registration",
+      "newPasswordExist": "The new password exist!"
+    },
+    "errors": {
+      "EMAIL_OR_USER_ID_NOT_EXIST": "Account exist email or social id !",
+      "tokenNotExist": "The token does not exist"
+    }
+  },
+  "button": {
+    "signup": "Sign up",
+    "login": "Log in",
+    "sendRequest": "Send request",
+    "back": "Back",
+    "submit": "Submit",
+    "logout": "Log out",
+    "save": "Save",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "close": "Close"
+  },
+  "errors": {
+    "uniqueEmail": "This email is existed.",
+    "isNotValid": "This value is not valid.",
+    "notNull": "This field must be not null.",
+    "passwordNotMatch": "Password does not match.",
+    "notLogin": "Username or password is incorrect.",
+    "mailNotExist": "This email address does not exist.",
+    "hasError": "Some error occurred. Please try again.",
+    "CAPTCHA_EXPIRED": "CAPTCHA_EXPIRED",
+    "HOSTNAME_MISMATCH": "HOSTNAME_MISMATCH",
+    "GOOGLE_RECAPTCHA_SECRET_MISMATCH": "GOOGLE_RECAPTCHA_SECRET_MISMATCH",
+    "DOMAIN_NULL": "DOMAIN_NULL",
+    "CAPTCHA_NULL": "Merci de confirmer la vérification humaine.",
+    "samePassword": "The new password is the same as recent old password",
+    "addQuotation": "Something went wrong while adding to cart",
+    "mustLogin": "You need to login",
+    "facebook_account_not_email": "Facebook account not email"
+  },
+  "registration": {
+    "yourContactDetails": "Your contact details",
+    "yourProblem": "Your Problem",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "login": "Log in",
+    "logInWithFacebook": "Log in with Facebook",
+    "describeYourProblem": "Describe your problem",
+    "submitYourRequest": "Submit your request",
+    "detailYourProblem": "Detail your problem ...",
+    "or": "Or",
+    "attach": "Please attach a 10 second video (recommended) or photos",
+    "drop": "Drop your photos, videos here or ",
+    "choose": "choose theme",
+    "uniqueEmail": "This email address is already being used.",
+    "isNotValid": "This value is not valid.",
+    "notNull": "This field must be not null.",
+    "passwordNotMatch": "Password does not match.",
+    "notLogin": "Username or password is incorrect.",
+    "mailNotExist": "This email address does not exist.",
+    "addInfoFacebookAcc": "add information for your facebook account"
+  },
+  "reactAdmin": {
+    "menu": {
+      "category": "Category",
+      "mailType": "Mail Type",
+      "requestMailType": "Request Mail Type",
+      "user": "User",
+      "currency": "Currency",
+      "break_time": "Break Time",
+      "work_time": "Work time",
+      "day_of_week": "Day of week holiday",
+      "holiday": "Holiday",
+      "call_time": "Call time",
+      "blicko_contact": "Blicko contact",
+      "price_pay_default": "Price pay default",
+      "email_address_bcc": "Email address bcc",
+      "lease_type": "Type of rental contract",
+      "video_type": "Video Type",
+      "request_document_type": "Request Document Type",
+      "document_request_valid": "Document Valid",
+      "import_intervention": "Import intervention",
+      "image_type": "Image Type",
+      "mail": "Mail",
+      "app_advertise": "Advertise",
+      "general_document": "General document"
+    },
+    "label": {
+      "export": "Export",
+      "create": "Create"
+    },
+    "categories": {
+      "titleList": "Problem List",
+      "titleAddCategory": "Add category",
+      "name": "Name",
+      "btnEdit": "Edit",
+      "btnAdd": "Add Category",
+      "errors": {
+        "nameEmpty": "This field 'Name' should not be null!",
+        "categoryNotExist": "Category not exist!"
+      }
+    },
+    "mailType": {
+      "name": "Name",
+      "subject": "Subject",
+      "body": "Body",
+      "requestStatusType": "Request Status Type",
+      "enabled": "Enabled",
+      "variables": {
+        "PARAM_COMMENT_STATUS_REPAIRER": "PARAM_COMMENT_STATUS_REPAIRER",
+        "PARAM_EDIT_REQUEST_WITH_TOKEN_LINK": "PARAM_EDIT_REQUEST_WITH_TOKEN_LINK",
+        "PARAM_CONFIRM_REGISTRATION_LINK": "PARAM_CONFIRM_REGISTRATION_LINK",
+        "PARAM_CHANGE_PASSWORD_WITH_TOKEN_LINK": "PARAM_CHANGE_PASSWORD_WITH_TOKEN_LINK",
+        "PARAM_COMMENTS": "PARAM_COMMENTS",
+        "PARAM_PROBLEM_DESCRIPTION": "PARAM_PROBLEM_DESCRIPTION",
+        "PARAM_CUSTOMER_NAME": "PARAM_CUSTOMER_NAME",
+        "PARAM_REQUEST_DATE": "PARAM_REQUEST_DATE",
+        "PARAM_REQUEST_APPOINTMENT_TIME": "PARAM_REQUEST_APPOINTMENT_TIME",
+        "PARAM_CUSTOMER_FIRST_NAME": "PARAM_CUSTOMER_FIRST_NAME",
+        "PARAM_CUSTOMER_LAST_NAME": "PARAM_CUSTOMER_LAST_NAME",
+        "PARAM_REQUEST_APPOINTMENT_DATETIME": "PARAM_REQUEST_APPOINTMENT_DATETIME",
+        "PARAM_REQUEST_APPOINTMENT_DATE": "PARAM_REQUEST_APPOINTMENT_DATE"
+      },
+      "errors": {
+        "bodyEmpty": "This body is not valid!",
+        "subjectEmpty": "This Subject is not valid!",
+        "statusTypeEmpty": "This Status Type is not valid!"
+      }
+    },
+    "user": {
+      "permission": {
+        "ROLE_CHANGE_REQUEST_STATUS": "Change status"
+      },
+      "groups": {
+        "client": "Client",
+        "repairer": "Repairer",
+        "admin": "Admin",
+        "superAdmin": "Super Admin"
+      },
+      "list": {
+        "accountType": "Account Type",
+        "createdAt": "Created At",
+        "titleList": "Staff management",
+        "btnAddStaff": "Add staff",
+        "email": "Address mail",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "group":"Group",
+        "enabled": "Enabled",
+        "roles": "Roles",
+        "startWorkAt": "Start work at",
+        "endWorkAt": "End work at",
+        "address": "Address",
+        "phoneNumber": "Phone",
+        "viewDetail": "View Detail",
+        "search": "Search",
+        "enabledStatus": {
+          "on": "On",
+          "off": "Off"
+        }
+      },
+      "detail": {
+        "block1": {
+          "email": "Address mail",
+          "roles": "Roles",
+          "startWorkAt": "Start word at",
+          "address": "Address",
+          "phoneNumber": "Phone",
+          "addressCity": "City",
+          "addressPostalCode": "Postal Code",
+          "addressCountry": "Country",
+          "addressDescription": "Description",
+          "enabledStatus": {
+            "on": "on",
+            "off": "Off"
+          },
+          "btnEdit": "Edit"
+        },
+        "block2": {
+          "title": "Document"
+        },
+        "block3": {
+          "title": "Request list"
+        }
+      },
+      "form": {
+        "email": "E-mail",
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "group":"Groupe",
+        "enabled": "Actif",
+        "password": "Password",
+        "changePassword": "Change Password",
+        "passwordConfirm": "Password confirm",
+        "roles": "Roles",
+        "passwordConfirmNotMatch": "Password Confirm do not match!",
+        "phoneNumber": "Phone Number",
+        "errors": {
+          "firstNameEmpty": "This field 'First Name' should not be null!",
+          "lastNameEmpty": "This field 'Last Name' should not be null!",
+          "emailInvalid": "This field 'Email' should not valid!",
+          "phoneNumberInvalid": "This field 'Phone Number' should not valid!",
+          "passwordEmpty": "This field 'Password' should not be null!",
+          "confirmPasswordMatch": "This field 'Confirm Password' is not match!"
+        }
+      }
+    },
+    "parameter": {
+      "list": {
+        "value": "Value",
+        "description": "Description",
+        "callTime": "Call Time",
+        "startTime": "Start Time",
+        "endTime": "End Time",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "startTimeWork": "Start Time work",
+        "endTimeWork": "End Time work",
+        "email": "Email",
+        "fullName": "Full Name",
+        "btnDelete": "Delete"
+      },
+      "form": {
+        "value": "Value",
+        "description": "Description",
+        "callTime": "Call Time",
+        "startTime": "Start Time",
+        "endTime": "End Time",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "email": "Email",
+        "fullName": "Full Name",
+        "unitCallTime": "minutes",
+        "dayOfWeek": {
+          "monday": "Monday",
+          "tuesday": "Tuesday",
+          "wednesday": "Wednesday",
+          "thursday": "Thursday",
+          "friday": "Friday",
+          "saturday": "Saturday",
+          "sunday": "Sunday",
+          "1": "Monday",
+          "2": "Tuesday",
+          "3": "Wednesday",
+          "4": "Thursday",
+          "5": "Friday",
+          "6": "Saturday",
+          "7": "Sunday"
+        }
+      }
+    },
+    "lease_type": {
+      "name": "Name"
+    },
+    "document_request_valid": {
+      "fileFormat": "File Format",
+      "fileType": "File Type",
+      "maxSize": "Max Size",
+      "minSize": "Min Size",
+      "sizeFileUnit": "MB"
+    },
+    "mail": {
+      "sentAt": "Sent at",
+      "recipients": "Recipients",
+      "subject": "Subject",
+      "body": "Body",
+      "status": "Status",
+      "action": "Action",
+      "createdDate": "Created at",
+      "status_waiting": "Waiting",
+      "status_done": "Done",
+      "status_fail": "Fail",
+      "resendMail": "Resend mail",
+      "messageSendMail": "Do you want to resend mail ?"
+    },
+    "generalDoc": {
+      "name": "Name",
+      "description": "Description",
+      "createdAt": "Created at",
+      "listVersionDoc": "List version document",
+      "type": "Type",
+      "enabled": "Enabled",
+      "versionDocuments": "Version documents",
+      "action": "Action",
+      "changeDocForVersion": "Change document for version",
+      "changeDoc": "Change doc",
+      "returnList": "Return list",
+      "version": "version",
+      "versions": "versions"
+    }
+  },
+  "text": {
+    "noResult": "No Result",
+    "table": {
+      "paging": {
+        "rowsPerPage": "Row per page",
+        "all": "All",
+        "info": "{from}-{to} of {count}",
+        "labelRowsSelect": "rows",
+        "firstAriaLabel": "First page",
+        "firstTooltip": "First page",
+        "previousAriaLabel": "Previous page",
+        "previousTooltip": "Previous page",
+        "nextAriaLabel": "Next page",
+        "nextTooltip": "Next page",
+        "lastAriaLabel": "Last page",
+        "lastTooltip": "Last page"
+      }
+    },
+    "select": {
+      "loading": "Loading...",
+      "noOption": "No options",
+      "placeholder": "Select"
+    },
+    "footer": {
+      "info": "A brand of SAS Expertise Plomberie - SIRET: 887 709 996 00011 with a capital of 50,000 € - VAT number: FR44887709996"
+    }
+  },
+  "form": {
+    "error": {
+      "notCompleted": "This field is not completed!",
+      "unique": "The value of this field already exists in the system !",
+      "blank": "This field must not be blank!",
+      "invalid_field": "This field is not valid!",
+      "invalid_date": "Invalid Date Format",
+      "occurred": "An error occurred!",
+      "maxDateMessage": "Date should not be after maximal date {maxDate}",
+      "minDateMessage": "Date should not be before minimal date {minDate}",
+      "invalid_label": "unknown",
+      "required_field": "This field is required!",
+      "no_change": "You don't have any changes!",
+      "general": "Ce champ est invalide !",
+      "NOT_NULL": "This field should not be null!",
+      "DATETIME_ISO": "Ce champ doit être au format date!",
+      "PHONE_NUMBER": "Ce champ doit être au format de numéro de téléphone!",
+      "UNIQUE": "Cette valeur existe déjà!",
+      "EMAIL": "Ce champ doit être au format email!",
+      "FLOAT": "Ce champ doit être au format numérique!",
+      "DATE": "date n'est pas valide"
+    },
+    "success": {
+      "save_ok": "Your changes have been saved!"
+    },
+    "datepicker": {
+      "placeholder": "dd/mm/yyyy"
+    },
+    "timepicker": {
+      "placeholder": "hh:mm"
+    }
+  },
+  "enableUser": {
+    "errors": {
+      "notRequestEnableUser": "Token enable user not exist!"
+    }
+  },
+  "error": {
+    "p400": {
+      "title": "Bad Request!"
+    },
+    "p401": {
+      "title": "Invalid Credentials!"
+    },
+    "p403": {
+      "title": "Access Forbidden!"
+    },
+    "p404": {
+      "title": "Page Not Found!"
+    },
+    "p500": {
+      "title": "Internal Server Error!"
+    }
+  },
+  "profile": {
+    "titleHeader": "Profile",
+    "titleAddStaff" : "Add Staff",
+    "titleEditStaff" : "Editer Staff",
+    "form": {
+      "titleBlockUser": "Compte utilisateur",
+      "titleBlockAddress": "Address",
+      "titleBlockPassword": "Password",
+      "titleBlockWork": "Work",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "addressCity": "City",
+      "addressPostalCode": "Postal Code",
+      "addressCountry": "Country",
+      "addressDescription": "Description",
+      "selectAvatar": "Select Avatar",
+      "currentPassword": "Current password",
+      "enabled": "Status",
+      "roles": "Roles",
+      "startWorkAt": "Start work at",
+      "endWorkAt": "End work at",
+      "dropFileOrClickUpload": "Drop file here or",
+      "browse": "browse",
+      "addFiles": "Add File",
+      "document": "Document",
+      "errors": {
+        "firstNameEmpty": "This field 'First Name' should not be null!",
+        "lastNameEmpty": "This field 'Last Name' should not be null!",
+        "emailInvalid": "This field 'Email' should not valid!",
+        "phoneNumberInvalid": "This field 'Phone Number' should not valid!",
+        "addressCityEmpty": "This field 'Address City' should not be null!",
+        "addressPostalCodeEmpty": "This field 'Address Postal Code' should not be null!",
+        "addressCountryEmpty": "This field 'Address Country' should not be null!",
+        "addressDescriptionEmpty": "This field 'Address Description' should not be null!",
+        "passwordEmpty": "This field 'Password' should not be null!",
+        "confirmPasswordMatch": "This field 'Confirm Password' is not match!",
+        "currentPasswordEmpty": "This field 'Current Password' is not null!",
+        "currentPasswordMatch": "This field 'Current Password' is not match!",
+        "enabled": "This field 'Enabled' should not be null!",
+        "roles": "This field 'Roles' should not be null!"
+      }
+    }
+  },
+  "payment": {
+    "paid_text": "Your request has been paid",
+    "payment_by_tier_btn": "Payment by tier",
+    "payment_btn": "Payment",
+    "payment_share": "Share",
+    "return_home":  "Go to Home Page",
+    "copy_success": "Copy link payment success"
+  },
+  "managerCalendarPage": {
+    "type": {
+      "task": "Task",
+      "holiday": "Holiday",
+      "request": "Request"
+    },
+    "managerCalendarLeft": {
+      "titleDetailByCalendar": "Today's request"
+    },
+    "managerCalendarRight": {
+      "btnAddRestday": "Add Holiday",
+      "companyHoliday": "Company Holiday",
+      "all": "All",
+      "selectStaff": "Staff",
+      "modalRestday": {
+        "allUser": "All",
+        "titleAdd": "Add Rest day",
+        "startRestAt": "Start time",
+        "endRestAt": "End time",
+        "staff": "Select Staff",
+        "description": "Reason",
+        "subject": "Subject",
+        "btnSave": "Save",
+        "errors": {
+          "userEmpty": "Field 'staff' should not null!",
+          "subjectEmpty": "Field 'Subject' should not null!",
+          "startDateAtEmpty": "Field 'Start time' should not null!",
+          "endDateAtEmpty": "Field 'End time' should not null!",
+          "startDateIsMoreThanEndDate": "Start Date is more than End Date !",
+          "overlapDatetime": "Overlap datetime:",
+          "userNotExist": "User not exist:"
+        }
+      },
+      "modalAddRepairer": {
+        "titleAdd": "Add Repairer",
+        "customer": "Customer",
+        "address": "Address",
+        "registrationStart": "Start time",
+        "registrationEnd": "End time",
+        "btnSave": "Save",
+        "assignTo": "Assign To",
+        "phoneNumber": "Tel",
+        "errors": {
+          "managerEmpty":  "Field 'End time' should not null!",
+          "repairerBusy": "Repairer busy!",
+          "userNotExist": "User not exist!"
+        }
+      }
+    }
+  },
+  "restDayList": {
+    "status": {
+      "validate": "Validate"
+    },
+    "field": {
+      "startRestAt": "Start rest at",
+      "endRestAt": "End rest at",
+      "reason": "Reason"
+    },
+    "modal": {
+      "staffRequest": "Staff request",
+      "adminResponse": "Admin response",
+      "startRestAt": "Start rest at",
+      "endRestAt": "End rest at",
+      "reason": "Reason",
+      "adminNote": "Admin’s note"
+    }
+  },
+  "admin": {
+    "welcome": "Welcome",
+    "title": "Backoffice"
+  },
+  "translations": {
+    "fr": "French",
+    "en": "English",
+    "lang": "en"
+  },
+  "formatDate": {
+    "yyyy": "yyyy",
+    "dd": "dd",
+    "mm": "mm",
+    "dd/mm/yyyy": "dd/mm/yyyy"
+  },
+  "requestDocument": {
+    "title": "SEND A FILE",
+    "delete": "Delete request document!",
+    "commentSendMail": "Comment",
+    "commentDocument": "Description note",
+    "new":"New",
+    "label": {
+      "files": "FILES",
+      "category": "Category",
+      "type": "Type",
+      "date": "DATE",
+      "uploadFile": "Drag & Drop Your files here",
+      "display": "Afficher"
+    },
+    "sharePopup": {
+      "title": "Shar file(s)",
+      "properties": "Share properties",
+      "url": "Link",
+      "password": "Password",
+      "validityDate": "Validity date",
+      "selectFiles": "Select file(s)",
+      "generate": "Share",
+      "delete": "Delete link"
+    },
+    "btn": {
+      "save": "Save",
+      "share": "Share",
+      "send": "Send"
+    },
+    "downloadDocumentAllZipName": "Documents_{{other}}"
+  },
+  "requestDate": {
+    "validateText": "Your file has been validated by Blicko",
+    "letUs": "Please let us know your preference for the VISIO appointment.",
+    "send": "Send"
+  },
+  "pdfShow": {
+    "loadingFile": "Loading file ...",
+    "failedToLoad": "Failed to load PDF file"
+  },
+  "diagnostic": {
+    "diagnostic": "Diagnostic",
+    "list": {
+      "requestId": "Id",
+      "selection": "Selection",
+      "code": "Code",
+      "plugged": "Plugged",
+      "family": "Family",
+      "subFamily": "Sub-family",
+      "subFamilyType": "Type of sub-family",
+      "problemObserved": "Problem found",
+      "solution": "Solution found",
+      "eligibility": "Eligibility",
+      "standard": "Standard",
+      "noResult": "No Result",
+      "eligible": "Eligible",
+      "gas": "Sanitary heating/gas",
+      "expenseCharged": "Depense à charge de",
+      "justification": "Justification",
+      "difficulty": "Difficulty",
+      "time": "Time",
+      "comment": "Comment",
+      "photo": "Photos",
+      "report": "Report",
+      "problem": "PROBLEME",
+      "solutionH": "SOLUTION",
+      "checkFirstAction": "Gestes de 1er secours",
+      "otherFirstAidActions": "Autre(s) geste(s) de 1er secours",
+      "reportId": "Id"
+    },
+    "label": {
+      "selection": "SELECTION",
+      "deleteReport": "Delete report!",
+      "cannotDeleteReport": "Can not delete report!",
+      "unitTime": "time unit",
+      "taxPercent": "percent"
+    },
+    "button": {
+      "createReport": "Create report",
+      "saveDraft": "Save draft",
+      "savePdf": "Save pdf",
+      "reportToTrash": "Report to trash",
+      "sentToClient": "Dépôt client",
+      "resetFilter": "Reset Filter"
+    },
+    "financial": {
+      "shifing": "Displacement",
+      "smallSupplies": "Small supplies",
+      "largeSupplies": "Large supplies",
+      "labor": "Labor (50 € / hour)",
+      "totalWithoutTax": "Total excluding tax",
+      "tax": "TVA",
+      "detail": "Detail",
+      "realPrice": "Real Price",
+      "suggestedPrice": "Suggested price",
+      "discount": "discount",
+      "wording": "Label",
+      "total_ttc": "Total TTC"
+    },
+    "status": {
+      "draft": "brouillon",
+      "trash": "supprimé",
+      "pdf": "pdf",
+      "paid": "paid"
+    }
+  },
+  "client": {
+    "report": {
+      "labelNeedHeld": "Need help ?",
+      "labelContact": "Our customer service is at\nyour listening from Monday to Friday\nfrom 9 a.m. to 6 p.m.",
+      "securityPayment": "Paiment sécurisé",
+      "paymentAccess": "Accès paiement",
+      "monPanien": "mon panier"
+    },
+    "requestDetail": {
+      "chooseReport": "Je choisis ce devis",
+      "reportSelected": "Le devis a bien été ajouté au panier",
+      "deleteSelected": "Retirer",
+      "show": "afficher",
+      "chooseReportDifferent": "Ajouter au panier",
+      "contentDialogChooseChangeReport": "Le devis A {{amountA}}  est actuellement dans votre panier. Remplacer par le Devis B {{amountB}} à la place ?"
+    },
+    "reportList": {
+      "description": "DESCRIPTION",
+      "timeLimit": "DELAI",
+      "amount": "QUANTITÉ",
+      "total": "PRIX",
+      "totalAll": "TOTAL PANIER",
+      "saleCode": "CODE PROMO",
+      "intervention": "INTERVENTION"
+    }
+  },
+  "dialog": {
+    "message": "Souhaitez-vous continuer cette action ?"
+  },
+  "import_intervention": {
+    "label": {
+      "uploadFile": "Upload intervention file",
+      "fileExcel": "File excel"
+    },
+    "list": {
+      "updatedAt": "Updated At",
+      "executedAt": "Executed At",
+      "updated": "Updated",
+      "file": "File"
+    }
+  },
+  "chat": {
+    "titleChatRequest": "Chat Request",
+    "id": "Id",
+    "chatBox": {
+      "enterMessage": "Enter your message ...",
+      "turnOnNotification": "Turn on notification",
+      "turnOffNotification": "Turn off notification",
+      "createdAt": "crée le",
+      "to": "à",
+      "no": "N°",
+      "Assistance": "Assistance",
+      "response": "réponse sous 24h",
+      "switchUnRead": "Non lu",
+      "switchReadLastMess": "Read",
+      "hasNewMessage": "{{id}} : a un nouveau message"
+    }
+  },
+  "successRegistrationUser": {
+    "titlePage": "Créer un compte",
+    "message1": "Un lien de vérification\na été envoyé à {{email}}",
+    "message2": "\nVeuillez cliquer sur ce lien pour vérifier\nvotre adresse e-mail et terminer\n le processus d'inscription.",
+    "noteTitle": "À NOTER...",
+    "note": "il se peut que le lien\nde vérification arrive dans\nvotre boite spam ou bien soit\nautomatiquement classé \ndans l'onglet \"promotions\" "
+  },
+  "payment_report": {
+    "title": {
+      "info_report": "Info report",
+      "info_payer": "Info payer",
+      "paidForRequest": "A report of request paid",
+      "freeForReport": "Free for report"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.login-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.login-form {
+  width: 400px;
+  padding: 40px 20px 20px 20px;
+  background-color: #fff;
+}
+
+.login-form .ant-form {
+  width: 100%;
+}
+
+.login-form button {
+  background-color: #53382c;
+  font-weight: 600;
+  border-color: #53382c;
+}
+
+.login-form button:hover {
+  background-color: #53382c;
+}
+
+.login-form .ant-form-item-control-input-content {
+  text-align: center;
+}
+
+.login-form .ant-form-item-explain-error {
+  color: #53382c!important;
+}
+
+.login-form .ant-form-item-has-error input, span {
+  border-color: #53382c !important;
+}

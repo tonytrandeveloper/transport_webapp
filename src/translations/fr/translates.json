@@ -1,0 +1,1081 @@
+{
+  "language": "fr",
+  "label": {
+    "goToHome": "Aller à la page d'accueil",
+    "today": "Aujourd'hui",
+    "all": "Tous",
+    "optional_field": "Facultatif",
+    "no_options": "Aucune option",
+    "day": "jour(s)",
+    "minute": "minute(s)",
+    "hour": "heure(s)"
+  },
+  "navbar": {
+    "editProfile": "Profil",
+    "menuIcon1": {
+      "categoryList": "Catégories",
+      "staff": "Experts",
+      "manager": "Paramètres"
+    },
+    "menuIcon2": {
+      "calendar": "Calendrier",
+      "restdayList": "Congés",
+      "staffManagement": "Gestion des experts"
+    },
+    "menuIcon3": {
+      "customerRequest": "Demandes d'appel visio"
+    }
+  },
+  "banner": {
+    "hello": "Bonjour",
+    "youHave": "vous avez",
+    "alarm": "{{field}} RDV à confirmer"
+  },
+  "list": {
+    "resultPerPage": "Résultat par page",
+    "of": "sur",
+    "goToPage": "Aller à la page",
+    "noResult": "Aucun Résultat",
+    "noResultCustom": "Aucun historique",
+    "page": "Page",
+    "go": "Va"
+  },
+  "notice": {
+    "error": "Erreur !",
+    "success": "Succès !"
+  },
+  "rolesUser": {
+    "repairer": "Expert",
+    "admin": "Admin"
+  },
+  "request": {
+    "titlePage": "Historique",
+    "btnAddRequest": "Nouvelle demande de diagnostic",
+    "titleRequest": "Demandes d'appel visio",
+    "closeNewForm": "Retour",
+    "closeNewFormConfirm": "Confirmez-vous la fermeture du formulaire ?",
+    "btnSubmitNext": "Suite et finaliser >>",
+    "btnSubmitNew": "Enregistrer et envoyer",
+    "textMessage": "Votre demande a bien été enregistrée",
+    "repairerMessage": "Nous reviendrons vers vous dans un délai de moins de 24h",
+    "closeNew": "Fermer",
+    "chatNotSeen":"dialogue(s) non lue(s)",
+    "documentNotSeen":"nouveau(x) document(s) non lu(s)",
+    "infoDiagnosisReceived": {
+      "text1": "Action requise",
+      "text2": "Vous avez reçu des diagnostics",
+      "text3": "Pour accepter un devis, ajouter le au panier et régler en ligne. Le Paiement vaudra acceptation. Merci :)",
+      "actionDiagnosisReceived": "Consulter"
+    },
+    "infoMakeAnAppointment": {
+      "text": "vous devez enregistrer la date et l'heure",
+      "registerTime": "temps d'enregistrement"
+    },
+    "tab1RequestNew": "Demande de diagnostic",
+    "tab2RequestNew": "Informations pratiques",
+    "status": {
+      "REPAIRED": "Go visio",
+      "NOT_BE_REPAIRED": "NO GO",
+      "WAITING_FOR_REPLY": "WAITING",
+      "GO_DOC": "GO",
+      "MAYBE": "MAYBE",
+      "STOP": "STOP",
+      "UNASSIGNED": "Non affecté",
+      "ASSIGNED": "Affecté",
+      "valid": "Validé",
+      "notEligible": "Non eligible",
+      "inProgress": "En cours",
+      "canceled": "Annulé",
+      "archived": "Archivé",
+      "unarchived": "En cours",
+      "all": "Tous"
+    },
+    "list": {
+      "id": "Id",
+      "problem": "Problème",
+      "date": "Date",
+      "status": "Statut",
+      "note": "Note",
+      "paid": "Payé",
+      "categories": "Catégories",
+      "btnResponse": "Répondre",
+      "btnDetail": "Détail",
+      "btnDetailClient": "Accès Dossier",
+      "btnAddNote": "Noter",
+      "btnAddCategory": "Ajouter une catégorie",
+      "btnStop": "En arrêt",
+      "btnArchive": "Archiver",
+      "btnUnarchive": "Désarchiver",
+      "client": "Client",
+      "startTime": "Heure de début",
+      "staff": "Expert",
+      "assign": "Affecter",
+      "action": "Action",
+      "chat": "DIALOGUER",
+      "files": "Fichiers",
+      "viewNote": "Voir la note",
+      "amount": "Montant",
+      "comment": "Commentaire",
+      "stopRequest": "Êtes-vous sûr ?",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "prendre": "prendre RDV",
+      "the": "Le",
+      "video": "Vidéo de la visio",
+      "pdf": "PDF du Rapport",
+      "otherDoc": "Autres docs",
+      "detail": "Détail",
+      "waitingConfirmation": "En attente de confirmation",
+      "createReport": "RAPPORT",
+      "viewDocument": "Fichiers",
+      "viewAllReport": "Afficher tous les rapports",
+      "reportPaid": "Réglé OK",
+      "rules": "Règlement",
+      "setStartTime": "Heure de début",
+      "archiveRequest": "Souhaitez-vous archiver cette demande ?",
+      "unarchiveRequest": "Souhaitez-vous désarchiver cette demande ?",
+      "add_camera": "Ajout document",
+      "messageUploadDocument": "{{count}} document(s) téléchargé(s) pour la demande N°{{id}}",
+      "statusRequest": {
+        "CLIENT_STATUS_SET_OK": "Réglé OK",
+        "CLIENT_STATUS_NOT_ELIGIBLE": "Non eligible",
+        "CLIENT_STATUS_IN_PROGRESS": "En cours",
+        "CLIENT_STATUS_MAKE_AN_APPOINTMENT": "Prendre RDV",
+        "CLIENT_STATUS_CANCELED": "Annulé",
+        "CLIENT_STATUS_DIAGNOSIS_RECEIVED": "Diagnostic Reçu",
+        "CLIENT_STATUS_UNDER_ANALYSIS_BY_THE_EXPERT": "En cours d’analyse par l’expert",
+        "CLIENT_STATUS_SCHEDULED_APPOINTMENT": "RDV planifié"
+      },
+      "statusChat": {
+        "seen": "Vu",
+        "notSeen": "Nouveau"
+      },
+      "statusDocumentView": {
+        "seen": "Vu",
+        "notSeen": "Nouveau"
+      },
+      "complete_information": "Compléter vos informations",
+      "reportReceived": "rapports reçus"
+    },
+    "popoverChangeStatus": {
+      "price": "Prix",
+      "comment": "Commentaire",
+      "goFree": "Go free",
+      "toRespondTo": "répondre à",
+      "errors": {
+        "changePasswordSelection": "Merci de sélectionner un statut !",
+        "priceEmpty": "Le champ 'Prix' est requis !"
+      }
+    },
+    "popoverAddNote": {
+      "title": "Ajouter note",
+      "btnAddNote": "Note",
+      "note": "Note",
+      "errors": {
+        "noteEmpty": "Le champ 'note' est requis !"
+      }
+    },
+    "modalUseSmartphone": {
+      "youPassBySmartphone": "Blicko vous recommande de passer par un smartphone pour ne pas perdre de temps à transferer vos photos du smartphone vers le PC.",
+      "doNotDisplayAnymore": "Ne plus afficher",
+      "iGetIt": "J'ai compris"
+    },
+    "requestDetail": {
+      "dateVisioDiagnostic": "Date visio-diagnostic",
+      "hour": "Heure",
+      "videoMp4": "vidéo mp4",
+      "encounteredProblem": "Problème rencontré",
+      "downloadAllFile": "Télécharger tous les documents",
+      "documentType": {
+        "IMAGE_VIDEO": "Photos / Vidéos",
+        "BILL": "Facture",
+        "QUOTATION": "Devis",
+        "REPORT_QUOTATION": "Rapport devis",
+        "OTHER": "Autres",
+        "chatDocuments": "Documents de discussion"
+      },
+      "tabs": {
+        "tabReport": "DETAIL DU RAPPORT",
+        "tabDocument": "MES DOCUMENTS",
+        "tabCalender": "MON RDV VISIO"
+      },
+      "download": "Télécharger",
+      "view": "visualiser",
+      "slideshow": "Lancer"
+    },
+    "filesUploadBlock": {
+      "hasNewDocMailToCustomer": "Notifier au client pour les nouveaux documents !",
+      "display": "Afficher"
+    }
+  },
+  "information": {
+    "header": {
+      "returnHistory": "Retour",
+      "appelVisio": "Appel visio"
+    },
+    "tab1": "Informations",
+    "tab2": "Rendez-vous",
+    "tab3": "Paiement",
+    "formTab1": {
+      "subject": "Objet",
+      "problem": "Problème",
+      "documents":  "Documents",
+      "labelAddressRepair": "2. Adresse d'intervention",
+      "labelAddressBilling": "3. Adresse de facturation",
+      "billingAddressSameAsRepairAddress": "identique adresse d'intervention",
+      "logement": "4. Logement",
+      "userAccount": "1. Compte utilisateur",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phoneNumber": "N° téléphone",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer mot de passe",
+      "addressCity": "Ville",
+      "addressPostalCode": "Code postal",
+      "addressCountry": "Pays",
+      "addressDescription": "Adresse",
+      "constructionYear": "Année de construction",
+      "appelVisio": "Appel visio avec WhereBy",
+      "sentByAgency": "Etes-vous envoyé par une régie ou un partenaire blicko?",
+      "sentByAgencyLabel": "Envoyé par",
+      "buildingHasBeenBuiltForOver2Years": "Votre logement a t-il été construit",
+      "buildingHasBeenBuiltFor": "Le logement a été contruit depuis",
+      "olderThan2Years": "+ de 2 ans",
+      "lessThan2Years": "- de 2 ans",
+      "yes": "Oui",
+      "no": "Non",
+      "dontKnow": "ne sais pas",
+      "situation": "Situation",
+      "owner": "Propriétaire",
+      "tenant": "Locataire",
+      "otherInfo": "Autres informations",
+      "acceptCertificate": "Acceptation des CGV/CGU et politiques de confidentialité.",
+      "certificate": "CGV/CGU et politique de confidentialité peuvent être téléchargés ici",
+      "btnSave": "Suivant",
+      "addressMail": "Adresse mail",
+      "address": "Adresse",
+      "complement": "Complément",
+      "appelVisioTitle": "Appel visio",
+      "leaseType": "Contrat de location",
+      "startingDateOfStay": "Date d'entrée dans les lieux",
+      "questionRealEstateCenterCode": "Code partenaire",
+      "personal": "Particulier",
+      "company": "Entreprise",
+      "socialReason": "Raison Sociale",
+      "vat": "N° TVA intracommunautaire",
+      "floorNumber": "Étage",
+      "isThereAnElevator": "Ascenseur",
+      "doorPassword": "Digicode",
+      "ownerEmail": "Email propriétaire",
+      "authorizeShareEmail": "j'autorise le partage d'informations",
+      "advertise": "Aidez-nous à grandir ! Comment avez-vous connu blicko 😉 ?",
+      "errors": {
+        "firstNameEmpty": "Le champ 'Prénom' est requis !",
+        "lastNameEmpty": "Le champ 'Nom' est requis !",
+        "emailInvalid": "Le champ 'Email' est invalid !",
+        "phoneNumberInvalid": "Le champ 'N° téléphone' est invalid !",
+        "addressCityEmpty": "Le champ 'Ville' est requis !",
+        "addressPostalCodeEmpty": "Le champ 'Code postal' est requis !",
+        "addressCountryEmpty": "Le champ 'Pays' est requis !",
+        "addressDescriptionEmpty": "Le champ 'Adresse' est requis !",
+        "constructionYearInvalid": "Le champ 'Année de construction' est invalid !",
+        "sentByAgencyEmpty": "Cette question est requise !",
+        "checkOwnerEmpty": "Cette question est requise !",
+        "acceptCertificateEmpty": "Cette coche est requise !",
+        "passwordEmpty": "Le champ 'Mot de passe' est requis !",
+        "confirmPasswordMatch": "Les champs de mot de passe ne sont pas identiques !",
+        "requestNotExist": "Demande inexistante !",
+        "leaseTypeEmpty": "Le champ 'Contrat de location' est requis !",
+        "realEstateCenterCodeEmpty": "Le champ 'Code partenaire' est requis !"
+      },
+      "valid": "Valider"
+    },
+    "formTab2": {
+      "diagnosis":"Votre visio-diagnostic",
+      "chooseDate": "Merci de choisir la date et l'heure qui vous conviennent le mieux",
+      "selectDate": "Sélectionnez la date et l'heure",
+      "offTime": "Il n'y a pas d'heure appropriée, veuillez choisir une autre date",
+      "next": "Suivant",
+      "errorNoDate": "Veuillez sélectionner la date et l'heure",
+      "timeExpired" : "L'heure sélectionnée {{date}} n'est pas valide. Veuillez sélectionner une date et une heure différentes",
+      "messageSuccess" : "Date et heure d'inscription réussies",
+      "save": "Sauvegarder",
+      "valid": "Valider"
+    },
+    "formTab3": {
+      "amount": "Montant",
+      "contact": "Contact",
+      "methodPayment": "Méthode de paiement",
+      "orOtherServices": "Ou autres services",
+      "owner": "Titulaire",
+      "expirationDate": "Date d'expiration (MM/AA)",
+      "dateType": "MM/AA",
+      "cardNumber": "Numéro de la carte",
+      "verificationCode": "Verification code",
+      "CVCode": "Code de vérification",
+      "confirmPayment": "Je confirme mon paiement",
+      "error": {
+        "fieldNull": "Veuillez saisir {{field}} sur votre carte!",
+        "owner": "Votre nom",
+        "expirationDate": "Date d'expiration",
+        "cardNumber": "Numéro de la carte",
+        "verificationCode": "Code de vérification",
+        "ownerError": "Veuillez saisir uniquement des caractères",
+        "invalidDate": "Format de date non valide",
+        "futureDate": "Veuillez saisir une date ultérieure",
+        "invalidCard": "Numéro de carte invalide"
+      }
+    }
+  },
+  "modal": {
+    "title": "Ceci est un titre modal",
+    "content": "C'est du contenu modal",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "upload": {
+      "describeProblem": "Décrivez nous sommairement votre problème",
+      "detailProblem": "Détaillez votre problème...\nJ'ai une fuite sous mon robinet de cuisine dans le meuble sous évier et cela fuit uniquement quand je l'utilise.",
+      "attackTitle": "Merci de joindre une vidéo de 10 secondes (recommandé) ou des photos",
+      "attackLabel": "Déposez vos photos, vidéos ici ou",
+      "chooseThem": "choisissez-les",
+      "submitRequest": "Soumettre votre demande",
+      "errorType": "Le format du fichier n'est pas supporté.",
+      "errorVideo": "Veuillez joindre une vidéo de 10 secondes maximum",
+      "errorSize": "Veuillez joindre un fichier de {{size}} Mo maximum",
+      "errorInfo": "Veuillez saisir toutes les informations dans les champs ou attendre la fin du téléchargement du fichier!",
+      "addFile": "Ajouter le fichiers",
+      "requestAdded": "Demande ajoutée avec succès",
+      "attackLabelMobile": "Vous pouvez prendre des photos et enregistrer des vidéos ou"
+    },
+    "thankYou": "Merci pour votre confiance",
+    "feedBack": "Votre demande a été soumise à notre expert Plombier qui vous contactera dans moins d’une heure.",
+    "submitted": "Votre demande a bien été soumise",
+    "editRequest": "Editer la demande"
+  },
+  "login": {
+    "fields": {
+      "lastName": "Nom",
+      "firstName": "Prénom",
+      "mail": "Adresse mail",
+      "email": "E-mail",
+      "phone": "N° téléphone",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer mot de passe",
+      "newPassword": "Nouveau mot de passe",
+      "addressPostalCode": "Code postal",
+      "login": "Se connecter",
+      "address": "Address"
+    },
+    "text": {
+      "or": "OU",
+      "haveAnAccount": "Vous avez déjà un compte ?",
+      "orLogin": "ou connectez-vous avec",
+      "dontHaveAnAccount": "Vous n'avez pas de compte ?",
+      "forgotPassword": "Mot de passe oublié ?",
+      "remember": "Se souvenir de moi",
+      "forgot_title": "Mot de passe oublié",
+      "resetText": "Nous enverrons un lien vous permettant d'initialiser votre mot de passe à votre adresse e-mail.",
+      "successText_1": "Nous avons envoyé une demande de réinitialisation de mot de passe à",
+      "successText_2": ", veuillez suivre les instructions dans l'e-mail pour récupérer votre mot de passe",
+      "createNewClient_1": "Un lien de vérification a été envoyé à",
+      "createNewClient_2": ". Veuillez cliquer sur ce lien pour vérifier votre adresse e-mail et terminer le processus d'inscription. Attention, il se peut que le lien de vérification arrive dans votre boite spam ou bien soit automatiquement classé dans l’onglet « Promotions ».",
+      "createNewPassword": "Initialisation de mot de passe",
+      "changePasswordSuccess": "Votre modification de mot de passe a été enregistrée avec succès.",
+      "loginWithFacebook": "Se connecter avec facebook",
+      "loginWithGoogle": "Se connecter avec google",
+      "creatAccount": "Créer un compte",
+      "registration": "Inscription",
+      "confirmRegistration": "Confirmer l'inscription",
+      "newPasswordExist": "Vous avez utilisé ce mot de passe. Merci d'utiliser un autre pour renforcer la sécurité de votre compte !"
+    },
+    "errors": {
+      "EMAIL_OR_USER_ID_NOT_EXIST": "Compte ou Email !",
+      "tokenNotExist": "Le jeton n'existe pas"
+    }
+  },
+  "button": {
+    "signup": "S'inscrire",
+    "login": "S'identifier",
+    "sendRequest": "Envoyer",
+    "back": "Retour",
+    "submit": "Soumettre",
+    "logout": "Se déconnecter",
+    "save": "Sauvegarder",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "edit": "Modifier"
+  },
+  "errors": {
+    "uniqueEmail": "Cet e-mail existe.",
+    "isNotValid": "Cette valeur n'est pas valide.",
+    "notNull": "Ce champ est requis !",
+    "passwordNotMatch": "Le mot de passe ne correspond pas.",
+    "notLogin": "L'adresse email ou mot de passe est incorrect.",
+    "mailNotExist": "Cette adresse e-mail n'existe pas.",
+    "hasError": "Une erreur s'est produite. Veuillez réessayer.",
+    "CAPTCHA_EXPIRED": "Session a expiré",
+    "HOSTNAME_MISMATCH": "Domaine non supportable",
+    "GOOGLE_RECAPTCHA_SECRET_MISMATCH": "Secret inexistant",
+    "DOMAIN_NULL": "Domaine inexistant",
+    "CAPTCHA_NULL": "Merci de confirmer la vérification humaine.",
+    "samePassword": "Le nouveau mot de passe est le même que l'ancien mot de passe récent",
+    "addQuotation": "Une erreur s'est produite lors de l'ajout au panier",
+    "mustLogin": "Vous devez vous connecter",
+    "facebook_account_not_email": "Compte Facebook pas email"
+  },
+  "registration": {
+    "yourContactDetails": "Vos coordonnées",
+    "yourProblem": "Votre problème",
+    "alreadyHaveAnAccount": "Vous avez déjà un compte?",
+    "login": "Se connecter",
+    "logInWithFacebook": "Se connecter avec Facebook",
+    "describeYourProblem": "Décrivez nous sommairement votre problème",
+    "submitYourRequest": "Soumettez votre demande",
+    "detailYourProblem": "Détaillez votre problème ...\nJ'ai une fuite sous mon robinet de cuisine dans le meuble sous évier et cela fuit uniquement quand je l'utilise.",
+    "or": "Ou",
+    "attach": "Merci de joindre une vidéo de 10 secondes (recommandé) ou des photos",
+    "drop": "Déposez vos photos, vidéos ici ou ",
+    "choose": "choisissez-les",
+    "uniqueEmail": "Cette adresse e-mail est déjà utilisée.",
+    "isNotValid": "Cette valeur n'est pas valide.",
+    "notNull": "Ce champ est requis !.",
+    "passwordNotMatch": "Le mot de passe ne correspond pas.",
+    "notLogin": "L'identifiant ou le mot de passe est incorrect.",
+    "mailNotExist": "Cette adresse e-mail n'existe pas.",
+    "addInfoFacebookAcc": "ajouter des informations pour votre compte facebook"
+  },
+  "reactAdmin": {
+    "menu": {
+      "category": "Catégorie",
+      "mailType": "Mails types ",
+      "requestMailType": "Mails types par statut de demande",
+      "user": "Utilisateur",
+      "currency": "Devise",
+      "break_time": "Pause",
+      "work_time": "Horaire travail général",
+      "day_of_week": "Horaire travail de la semaine",
+      "holiday": "Congés",
+      "call_time": "Durée d'un appel visio",
+      "blicko_contact": "Blicko contact",
+      "price_pay_default": "Prix par défaut",
+      "email_address_bcc": "Adresse email cci (copie carbone invisible)",
+      "lease_type": "Type de contrat de location",
+      "video_type": "Type de vidéo",
+      "request_document_type": "Type de document",
+      "document_request_valid": "Format/Taille des documents",
+      "import_intervention": "Import du fichier Interventions",
+      "image_type": "Type de image",
+      "mail": "Gestion d'envois de mail",
+      "app_advertise": "Choix pour la question 'Comment avez vous connu blicko ?'",
+      "general_document": "Documents par défaut"
+    },
+    "label": {
+      "export": "Exporter",
+      "create": "Créer"
+    },
+    "categories": {
+      "titleList": "Catégories",
+      "titleAddCategory": "Ajouter catégorie",
+      "name": "Nom",
+      "btnEdit": "Editer",
+      "btnAdd": "Ajouter",
+      "errors": {
+        "nameEmpty": "Ce champ 'Nom' est requis !",
+        "categoryNotExist": "Catégorie inexistante !"
+      }
+    },
+    "mailType": {
+      "name": "Nom",
+      "subject": "Objet du mail",
+      "body": "Corps du mail",
+      "requestStatusType": "Statut de la demande",
+      "enabled": "Actif",
+      "variables": {
+        "PARAM_COMMENT_STATUS_REPAIRER": "Commentaire expert",
+        "PARAM_EDIT_REQUEST_WITH_TOKEN_LINK": "Lien de réponse",
+        "PARAM_CONFIRM_REGISTRATION_LINK": "Lien de confirmation",
+        "PARAM_CHANGE_PASSWORD_WITH_TOKEN_LINK": "Lien de changement de mot de passe",
+        "PARAM_COMMENTS": "Commentaire",
+        "PARAM_PROBLEM_DESCRIPTION": "Problème",
+        "PARAM_CUSTOMER_NAME": "Nom / Prénom du client",
+        "PARAM_REQUEST_DATE": "Date de création de demande",
+        "PARAM_REQUEST_APPOINTMENT_TIME": "Heure du RDV",
+        "PARAM_CUSTOMER_FIRST_NAME": "Prénom",
+        "PARAM_CUSTOMER_LAST_NAME": "Nom",
+        "PARAM_REQUEST_APPOINTMENT_DATETIME": "Heure/Heure du rdv",
+        "PARAM_REQUEST_APPOINTMENT_DATE": "Date du rdv"
+      },
+      "errors": {
+        "bodyEmpty": "Le champ 'Corps du mail' est requis !",
+        "subjectEmpty": "Le champ 'Objet du mail' est requis !",
+        "statusTypeEmpty": "Le champ 'Statut de la demande' est requis !"
+      }
+    },
+    "user": {
+      "permission": {
+        "ROLE_CHANGE_REQUEST_STATUS": "Droit de changer le status d'une demande"
+      },
+      "groups": {
+        "client": "Client",
+        "repairer": "Expert",
+        "admin": "Admin",
+        "superAdmin": "Super Admin"
+      },
+      "list": {
+        "accountType": "Type de compte",
+        "createdAt": "Créé le",
+        "titleList": "Experts",
+        "btnAddStaff": "Ajouter expert",
+        "email": "Adresse mail",
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "group":"Groupe",
+        "enabled": "Actif",
+        "roles": "Roles",
+        "startWorkAt": "Début de contrat",
+        "endWorkAt": "Fin de contrat",
+        "address": "Adresse",
+        "phoneNumber": "N° téléphone",
+        "viewDetail": "Détail",
+        "search": "Recherche",
+        "enabledStatus": {
+          "on": "Actif",
+          "off": "Désactivé"
+        }
+      },
+      "detail": {
+        "block1": {
+          "email": "Adresse mail",
+          "roles": "Rôles",
+          "startWorkAt": "Début de contrat",
+          "address": "Adresse",
+          "phoneNumber": "N° téléphone",
+          "addressCity": "Ville",
+          "addressPostalCode": "Code postal",
+          "addressCountry": "Pays",
+          "addressDescription": "Adresse",
+          "enabledStatus": {
+            "on": "Actif",
+            "off": "Désactivé"
+          },
+          "btnEdit": "Editer"
+        },
+        "block2": {
+          "title": "Document"
+        },
+        "block3": {
+          "title": "Liste des tâches"
+        }
+      },
+      "form": {
+        "email": "Email",
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "group":"Groupe",
+        "enabled": "Actif",
+        "password": "Mot de passe",
+        "changePassword": "Nouveau mot de passe",
+        "passwordConfirm": "Confirmer mot de passe",
+        "roles": "Rôles",
+        "passwordConfirmNotMatch": "Les mots de passes ne sont pas identiques!",
+        "phoneNumber": "N° téléphone",
+        "errors": {
+          "firstNameEmpty": "Ce champ 'Prénom'est requis !",
+          "lastNameEmpty": "Ce champ 'Nom'est requis !",
+          "emailInvalid": "Ce champ 'Email'n'est pas valide !",
+          "phoneNumberInvalid": "Ce champ 'N° téléphone'n'est pas valide !",
+          "passwordEmpty": "Ce champ 'Mot de passe'est requis !",
+          "confirmPasswordMatch": "Les champs 'Mot de passe' ne sont pas identiques !"
+        }
+      }
+    },
+    "parameter": {
+      "list": {
+        "value": "Valeur",
+        "description": "Description",
+        "callTime": "Heure d'appel",
+        "startTime": "Heure de début",
+        "endTime": "Heure de fin",
+        "startDate": "Date de début",
+        "endDate": "Date de fin",
+        "startTimeWork": "Heure de début",
+        "endTimeWork": "Heure de fin",
+        "email": "Email",
+        "fullName": "Nom",
+        "btnDelete": "Supprimer"
+      },
+      "form": {
+        "value": "Valeur",
+        "description": "Description",
+        "callTime": "Heure d'appel",
+        "startTime": "Heure de début",
+        "endTime": "Heure de fin",
+        "startDate": "Date de début",
+        "endDate": "Date de fin",
+        "email": "Email",
+        "fullName": "Nom",
+        "unitCallTime": "minutes",
+        "dayOfWeek": {
+          "monday": "Lundi",
+          "tuesday": "Mardi",
+          "wednesday": "Mercredi",
+          "thursday": "Jeudi",
+          "friday": "Vendredi",
+          "saturday": "Samedi",
+          "sunday": "Dimanche",
+          "1": "Lundi",
+          "2": "Mardi",
+          "3": "Mercredi",
+          "4": "Jeudi",
+          "5": "Vendredi",
+          "6": "Samedi",
+          "7": "Dimanche"
+        }
+      }
+    },
+    "lease_type": {
+      "name": "Nom"
+    },
+    "document_request_valid": {
+      "fileFormat": "Format",
+      "fileType": "Type du fichier",
+      "maxSize": "Taille maximum",
+      "minSize": "Taille minimum",
+      "sizeFileUnit": "Mo"
+    },
+    "mail": {
+      "sentAt": "Envoyé à",
+      "createdAt": "Créé à",
+      "recipients": "Destinataires",
+      "subject": "Objet",
+      "body": "Corps",
+      "status": "Statut",
+      "action": "Action",
+      "createdDate": "Créé à",
+      "status_waiting": "En attente",
+      "status_done": "Terminé",
+      "status_fail": "Échec",
+      "resendMail": "Renvoyer",
+      "messageSendMail": "Voulez-vous renvoyer le courrier ?"
+    },
+    "generalDoc": {
+      "name": "nom",
+      "description": "Description",
+      "createdAt": "Créé à",
+      "listVersionDoc": "Liste des versions du document",
+      "type": "Type",
+      "enabled": "Activé",
+      "versionDocuments": "Documents de versions",
+      "action": "Action",
+      "changeDocForVersion": "Modifier le document pour la version",
+      "changeDoc": "Modifier le document",
+      "returnList": "Retour",
+      "version": "version",
+      "versions": "versions"
+    }
+  },
+  "text": {
+    "noResult": "Aucun Résultat",
+    "table": {
+      "paging": {
+        "rowsPerPage": "Nombre par page",
+        "all": "Tous",
+        "info": "{from}-{to} sur {count}",
+        "labelRowsSelect": "lignes",
+        "firstAriaLabel": "Première page",
+        "firstTooltip": "Première page",
+        "previousAriaLabel": "Page précédente",
+        "previousTooltip": "Page précédente",
+        "nextAriaLabel": "Page suivante",
+        "nextTooltip": "Page suivante",
+        "lastAriaLabel": "Dernière page",
+        "lastTooltip": "Dernière page"
+      }
+    },
+    "select": {
+      "loading": "Chargement...",
+      "noOption": "Aucun élément",
+      "placeholder": "Choisir"
+    },
+    "footer": {
+      "info": "Une marque de SAS Expertise Plomberie – SIRET : 887 709 996 00011 au capital de 62 500€ – N°TVA : FR44887709996"
+    }
+  },
+  "form": {
+    "error": {
+      "notCompleted": "Ce champ n'est pas complet",
+      "unique": "Cette valeur existe déjà!",
+      "blank": "Ce champ doit être renseigné !",
+      "invalid_field": "Ce champ est invalid!",
+      "invalid_date": "Date invalide",
+      "occurred": "Une erreur s'est produite !",
+      "filling": "Erreur de saisie !",
+      "maxDateMessage": "Date doit être antérieure à la date maximum {maxDate}",
+      "minDateMessage": "Date doit être postérieure à la date minimum {minDate}",
+      "invalid_label": "Inconnu",
+      "required_field": "Ce champ est requis !",
+      "no_change": "Vous n'avez aucun changement !",
+      "general": "Ce champ est invalide !",
+      "NOT_NULL": "Ce champ n'est pas nul !",
+      "DATETIME_ISO": "Ce champ doit être au format date !",
+      "PHONE_NUMBER": "Ce champ doit être au format de numéro de téléphone !",
+      "UNIQUE": "Cette valeur existe déjà !",
+      "EMAIL": "Ce champ doit être au format email !",
+      "FLOAT": "Ce champ doit être au format numérique !",
+      "DATE": "Date n'est pas valide !"
+    },
+    "success": {
+      "save_ok": "Modifications enregistrées !"
+    },
+    "datepicker": {
+      "placeholder": "jj/mm/aaaa"
+    },
+    "timepicker": {
+      "placeholder": "hh:mm"
+    }
+  },
+  "enableUser": {
+    "errors": {
+      "notRequestEnableUser": "Impossible d'identifier l'utilisateur"
+    }
+  },
+  "error": {
+    "p400": {
+      "title": "Mauvaise demande!"
+    },
+    "p401": {
+      "title": "Permission insuffisante!"
+    },
+    "p403": {
+      "title": "Accès refusé!"
+    },
+    "p404": {
+      "title": "Page introuveable!"
+    },
+    "p500": {
+      "title": "Une erreur s'est produite!"
+    }
+  },
+  "profile": {
+    "titleHeader": "Profil",
+    "titleAddStaff" : "Ajouter expert",
+    "titleEditStaff" : "Editer expert",
+    "form": {
+      "titleBlockUser": "1. Compte utilisateur",
+      "titleBlockAddress": "Adresse",
+      "titleBlockPassword": "Editer",
+      "titleBlockWork": "Travail",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "phoneNumber": "N° téléphone",
+      "password": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer nouveau mot de passe",
+      "addressCity": "Ville",
+      "addressPostalCode": "Code postal",
+      "addressCountry": "Pays",
+      "addressDescription": "Adresse",
+      "selectAvatar": "Photo de profil",
+      "currentPassword": "Mot de passe actuel",
+      "enabled": "Actif",
+      "roles": "Rôles",
+      "startWorkAt": "Début de contrat",
+      "endWorkAt": "Fin de contrat",
+      "dropFileOrClickUpload": "Déposez vos fichiers ici ou",
+      "browse": "Choissiez-les",
+      "addFiles": "Ajouter fichier",
+      "document": "Document",
+      "errors": {
+        "firstNameEmpty": "Le champ 'Prénom' est requis !",
+        "lastNameEmpty": "Le champ 'Nom' est requis !",
+        "emailInvalid": "Le champ 'Email' est invalid !",
+        "phoneNumberInvalid": "Le champ 'N° téléphone' est invalid !",
+        "addressCityEmpty": "Le champ 'Ville' est requis !",
+        "addressPostalCodeEmpty": "Le champ 'Code postal' est requis !",
+        "addressCountryEmpty": "Le champ 'Pays' est requis !",
+        "addressDescriptionEmpty": "Le champ 'Adresse' est requis !",
+        "passwordEmpty": "Le champ 'Mot de passe' est requis !",
+        "confirmPasswordMatch": "Le champ 'Confirmer mot de passe' n'est pas apparié !",
+        "currentPasswordEmpty": "Le champ 'Mot de passe actuel' est requis !",
+        "currentPasswordMatch": "Le champ 'Mot de passe actuel' est incorrect !",
+        "enabled": "Le champ 'Actif' est requis !",
+        "roles": "Le champ 'Rôles' est requis !"
+      }
+    }
+  },
+  "payment": {
+    "paid_text": "Vous avez payé avec succès !",
+    "payment_by_tier_btn": "Paiement par un tier",
+    "payment_btn": "Paiement",
+    "payment_share": "Partager",
+    "return_home": "Aller à la page d'accueil",
+    "copy_success": "Copier le lien de paiement réussi"
+  },
+  "managerCalendarPage": {
+    "type": {
+      "task": "Tâches",
+      "holiday": "Congés",
+      "request": "Demandes"
+    },
+    "managerCalendarLeft": {
+      "titleDetailByCalendar": "Demandes du jour"
+    },
+    "managerCalendarRight": {
+      "btnAddRestday": "Ajouter des congés",
+      "companyHoliday": "Congés d'entreprise",
+      "all": "Tous",
+      "selectStaff": "Staff",
+      "modalRestday": {
+        "allUser": "Tous",
+        "titleAdd": "Ajouter des congés",
+        "startRestAt": "Heure de début",
+        "endRestAt": "Heure de fin",
+        "staff": "Affecter à",
+        "description": "Raison",
+        "subject": "Objet",
+        "btnSave": "Sauvegarder",
+        "errors": {
+          "userEmpty": "Le champ 'Affecter à' est requis !",
+          "subjectEmpty": "Le champ 'Objet' est requis !",
+          "startDateAtEmpty": "Le champ 'Heure de début' est requis !",
+          "endDateAtEmpty": "Le champ 'Heure de fin' est requis !",
+          "startDateIsMoreThanEndDate": "Heure de début doit être antérieure à l'heure de fin !",
+          "overlapDatetime": "Conflit des plages d'horaire",
+          "userNotExist": "Utilisateur inexistant"
+        }
+      },
+      "modalAddRepairer": {
+        "titleAdd": "Ajouter expert",
+        "customer": "Client",
+        "address": "Adresse",
+        "registrationStart": "Heure de début",
+        "registrationEnd": "Heure de fin",
+        "btnSave": "Sauvegarder",
+        "assignTo": "Affecter à",
+        "phoneNumber": "Tel",
+        "errors": {
+          "managerEmpty":  "Le chois de l'expert est requis !",
+          "repairerBusy": "Cet expert est déjà occupé !",
+          "userNotExist": "Utilisateur inexistant !"
+        }
+      }
+    }
+  },
+  "restDayList": {
+    "status": {
+      "validate": "Validé"
+    },
+    "field": {
+      "startRestAt": "Début",
+      "endRestAt": "Fin",
+      "reason": "Raison"
+    },
+    "modal": {
+      "staffRequest": "Demande du personnel",
+      "adminResponse": "Réponse de l'administrateur",
+      "startRestAt": "Heure de début",
+      "endRestAt": "Heure de fin",
+      "reason": "Raison",
+      "adminNote": "Note de l'admin"
+    }
+  },
+  "admin": {
+    "welcome": "Bienvenue",
+    "title": "Backoffice Blicko"
+  },
+  "translations": {
+    "fr": "Français",
+    "en": "Anglais",
+    "lang": "fr"
+  },
+  "formatDate": {
+    "yyyy": "aaaa",
+    "dd": "jj",
+    "mm": "mm",
+    "dd/mm/yyyy": "jj/mm/aaaa"
+  },
+  "requestDocument": {
+    "title": "ENVOYER UN FICHIER",
+    "delete": "Supprimer le document de demande!",
+    "commentSendMail": "Commentaor",
+    "commentDocument": "Description note",
+    "new":"Nouveau",
+    "label": {
+      "files": "FICHIERS",
+      "category": "Catégorie",
+      "type": "Type",
+      "date": "DATE",
+      "uploadFile": "Glisser-Déposer Vos fichiers ici",
+      "display": "Afficher"
+    },
+    "sharePopup": {
+      "title": "Partage de fichier(s)",
+      "properties": "Propriétés du partage",
+      "url": "Lien",
+      "password": "Mot de passe",
+      "validityDate": "Date de fin de validité",
+      "selectFiles": "Sélection de(s) fichier(s)",
+      "generate": "Partager",
+      "delete": "Supprimer le lien"
+    },
+    "btn": {
+      "save": "Sauvegarder",
+      "share": "Partager",
+      "send": "Envoyer"
+    },
+    "downloadDocumentAllZipName": "Documents_{{other}}"
+  },
+  "requestDate": {
+    "validateText": "Votre dossier a été validé par Blicko",
+    "letUs": "Votre rendez-vous avec blicko est le suivant :",
+    "send": "Envoyer",
+    "save": "Modifier rendez-vous",
+    "cancelAppointment": "Annuler rendez-vous",
+    "cancelDate" : "Confirmez-vous l'annulation de rendez-vous ?"
+  },
+  "pdfShow": {
+    "loadingFile": "Chargement du fichier ...",
+    "failedToLoad": "Échec du chargement du fichier PDF"
+  },
+  "diagnostic": {
+    "diagnostic": "Diagnostic",
+    "list": {
+      "requestId": "Dossier",
+      "selection": "Sélection",
+      "code": "Code",
+      "plugged": "Branche",
+      "family": "Famile",
+      "subFamily": "Sous-famille",
+      "subFamilyType": "Type de sous-famille",
+      "problemObserved": "Problème constaté",
+      "solution": "Solution trouvée",
+      "eligibility": "Éligibilité",
+      "standard": "Standard",
+      "noResult": "Pas de résultats.",
+      "eligible": "Eligible",
+      "gas": "sanitaire chaufage/gaz",
+      "expenseCharged": "Expense charged to",
+      "justification": "Justification",
+      "difficulty": "Difficulté",
+      "time": "Temps",
+      "comment": "Commentaire",
+      "photo": "Photos",
+      "report": "Rapport",
+      "problem": "PROBLEME",
+      "solutionH": "SOLUTION",
+      "checkFirstAction": "Gestes de 1er secours",
+      "otherFirstAidActions": "Autre(s) geste(s) de 1er secours",
+      "reportId": "ID"
+    },
+    "label": {
+      "selection": "SELECTION",
+      "deleteReport": "Supprimer le rapport!",
+      "cannotDeleteReport": "Impossible de supprimer le rapport!",
+      "unitTime": "Unité",
+      "taxPercent": "Pourcentage"
+    },
+    "button": {
+      "createReport": "Creer un rapport",
+      "saveDraft": "Enregistrer le brouillon",
+      "savePdf": "Générer le pdf",
+      "reportToTrash": "Signaler dans la corbeille",
+      "sentToClient": "Dépôt client",
+      "resetFilter": "Réinitialiser"
+    },
+    "financial": {
+      "shifing": "Déplacement",
+      "smallSupplies": "Petites fournitures",
+      "largeSupplies": "Grosses fournitures",
+      "labor": "Main d'oeuvre",
+      "totalWithoutTax": "Total hors taxe",
+      "tax": "TVA",
+      "detail": "Détail",
+      "realPrice": "Prix Réel",
+      "suggestedPrice": "Prix conseillé",
+      "discount": "remise",
+      "wording": "Libellé",
+      "total_ttc": "Total TTC"
+    },
+    "status": {
+      "draft": "brouillon",
+      "trash": "supprimé",
+      "pdf": "pdf",
+      "paid": "Payé"
+    }
+  },
+  "client": {
+    "report": {
+      "labelNeedHeld": "Besoin d'aide ?",
+      "labelContact": "Notre service client est à\nvotre écoute du Lundi au vendredi\nde 9h à 18h",
+      "securityPayment": "Paiement sécurisé",
+      "paymentAccess": "Accès paiement",
+      "monPanien": "mon panier"
+    },
+    "requestDetail": {
+      "chooseReport": "Je choisis ce devis",
+      "reportSelected": "Le devis a bien été ajouté au panier",
+      "deleteSelected": "Retirer",
+      "show": "afficher",
+      "chooseReportDifferent": "Ajouter au panier",
+      "contentDialogChooseChangeReport": "Le devis A {{amountA}} est actuellement dans votre panier. Remplacer par le Devis B {{amountB}} à la place ?"
+    },
+    "reportList": {
+      "description": "DESCRIPTION",
+      "timeLimit": "DELAI",
+      "amount": "QUANTITÉ",
+      "total": "PRIX",
+      "totalAll": "TOTAL PANIER",
+      "saleCode": "CODE PROMO",
+      "intervention": "INTERVENTION"
+    }
+  },
+  "dialog": {
+    "message": "Souhaitez-vous continuer cette action ?"
+  },
+  "import_intervention": {
+    "label": {
+      "uploadFile": "Déposer le fichier d'intervention",
+      "fileExcel": "Télécharger"
+    },
+    "list": {
+      "updatedAt": "Importé à",
+      "executedAt": "Exécuté à",
+      "updated": "Mise à jour",
+      "file": "Fichier"
+    }
+  },
+  "chat": {
+    "titleChatRequest": "Chat Request",
+    "id": "Id",
+    "chatBox": {
+      "enterMessage": "Entrez votre message...",
+      "turnOnNotification": "Activer la notification",
+      "turnOffNotification": "Désactiver la notification",
+      "createdAt": "crée le",
+      "to": "à",
+      "no": "N°",
+      "Assistance": "Assistance",
+      "response": "réponse sous 24h",
+      "switchUnRead": "Marquer comme non lu",
+      "switchReadLastMess": "Marquer comme lu",
+      "hasNewMessage": "{{id}} : a un nouveau message"
+    }
+  },
+  "successRegistrationUser": {
+    "titlePage": "Créer un compte",
+    "message1": "Un lien de vérification\na été envoyé à {{email}}",
+    "message2": "\nVeuillez cliquer sur ce lien pour vérifier\nvotre adresse e-mail et terminer\n le processus d'inscription.",
+    "noteTitle": "À NOTER...",
+    "note": "Il se peut que le lien\nde vérification arrive dans\nvotre boite spam ou bien soit\nautomatiquement classé \ndans l'onglet \"promotions\" "
+  },
+  "payment_report": {
+    "title": {
+      "info_report": "Rapport d'informations",
+      "info_payer": "Info payeur",
+      "paidForRequest": "Devis accepté et payé",
+      "freeForReport": "Rapport gratuit"
+    }
+  }
+}
